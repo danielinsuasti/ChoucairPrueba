@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Academy Choucair" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-20T03:37:43" hostname="YKMI" time="28.134">
+  <properties/>
+  <testcase name="Search for a automation course" classname="Academy Choucair" time="28.134"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5c7c65e3
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@209e9dde
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@60c216ee
+mar 19, 2021 10:37:44 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start-maximized, goog:chromeOptions: {args: [--start-maximized], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+Starting ChromeDriver 89.0.4389.23 (61b08ee2c50024bab004e48d2b1b083cdbdac579-refs/branch-heads/4389@{#294}) on port 37373
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+mar 19, 2021 10:37:47 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088267615, strPassword=Choucair2021*, strCourse=Prueba Técnica - Analista Bancolombia} [Given than client wants to learn automation at the Choucair academy
+| strUser | strPassword |
+| 1088267615 | Choucair2021* | [Client open up [Client opens the Choucair academy page]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088267615, strPassword=Choucair2021*, strCourse=Prueba Técnica - Analista Bancolombia} [Given than client wants to learn automation at the Choucair academy
+| strUser | strPassword |
+| 1088267615 | Choucair2021* | [Client open up [Client opens the Choucair academy page]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@68cfd79c
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5ebc9b97
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088267615, strPassword=Choucair2021*, strCourse=Prueba Técnica - Analista Bancolombia} [Given than client wants to learn automation at the Choucair academy
+| strUser | strPassword |
+| 1088267615 | Choucair2021* | [Client open up [Client opens the Choucair academy page], Client login [Client clicks on button that shows us the form to login]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@7381bb7
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088267615, strPassword=Choucair2021*, strCourse=Prueba Técnica - Analista Bancolombia} [Given than client wants to learn automation at the Choucair academy
+| strUser | strPassword |
+| 1088267615 | Choucair2021* | [Client open up [Client opens the Choucair academy page], Client login [Client clicks on button that shows us the form to login, Client enters '1088267615' into where we write the user]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5c25100
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088267615, strPassword=Choucair2021*, strCourse=Prueba Técnica - Analista Bancolombia} [Given than client wants to learn automation at the Choucair academy
+| strUser | strPassword |
+| 1088267615 | Choucair2021* | [Client open up [Client opens the Choucair academy page], Client login [Client clicks on button that shows us the form to login, Client enters '1088267615' into where we write the user, Client enters 'Choucair2021*' into where we write the password]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@397ff932
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088267615, strPassword=Choucair2021*, strCourse=Prueba Técnica - Analista Bancolombia} [Given than client wants to learn automation at the Choucair academy
+| strUser | strPassword |
+| 1088267615 | Choucair2021* | [Client open up [Client opens the Choucair academy page], Client login [Client clicks on button that shows us the form to login, Client enters '1088267615' into where we write the user, Client enters 'Choucair2021*' into where we write the password, Client clicks on buttom to confirm login]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088267615, strPassword=Choucair2021*, strCourse=Prueba Técnica - Analista Bancolombia} [Given than client wants to learn automation at the Choucair academy
+| strUser | strPassword |
+| 1088267615 | Choucair2021* | [Client open up [Client opens the Choucair academy page], Client login [Client clicks on button that shows us the form to login, Client enters '1088267615' into where we write the user, Client enters 'Choucair2021*' into where we write the password, Client clicks on buttom to confirm login]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088267615, strPassword=Choucair2021*, strCourse=Prueba Técnica - Analista Bancolombia} [Given than client wants to learn automation at the Choucair academy
+| strUser | strPassword |
+| 1088267615 | Choucair2021* | [Client open up [Client opens the Choucair academy page], Client login [Client clicks on button that shows us the form to login, Client enters '1088267615' into where we write the user, Client enters 'Choucair2021*' into where we write the password, Client clicks on buttom to confirm login]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@fdcc656
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@57d41578
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2bedf6aa
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088267615, strPassword=Choucair2021*, strCourse=Prueba Técnica - Analista Bancolombia} [Given than client wants to learn automation at the Choucair academy
+| strUser | strPassword |
+| 1088267615 | Choucair2021* | [Client open up [Client opens the Choucair academy page], Client login [Client clicks on button that shows us the form to login, Client enters '1088267615' into where we write the user, Client enters 'Choucair2021*' into where we write the password, Client clicks on buttom to confirm login]], When he search for the course on the Choucair academy platform
+| strCourse |
+| Prueba Técnica - Analista Bancolombia | [Client search [Client clicks on Cursos y Certificaciones]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4cefc48b
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088267615, strPassword=Choucair2021*, strCourse=Prueba Técnica - Analista Bancolombia} [Given than client wants to learn automation at the Choucair academy
+| strUser | strPassword |
+| 1088267615 | Choucair2021* | [Client open up [Client opens the Choucair academy page], Client login [Client clicks on button that shows us the form to login, Client enters '1088267615' into where we write the user, Client enters 'Choucair2021*' into where we write the password, Client clicks on buttom to confirm login]], When he search for the course on the Choucair academy platform
+| strCourse |
+| Prueba Técnica - Analista Bancolombia | [Client search [Client clicks on Cursos y Certificaciones, Client enters 'Prueba Técnica - Analista Bancolombia' into Buscar el curso ]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@13085aee
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088267615, strPassword=Choucair2021*, strCourse=Prueba Técnica - Analista Bancolombia} [Given than client wants to learn automation at the Choucair academy
+| strUser | strPassword |
+| 1088267615 | Choucair2021* | [Client open up [Client opens the Choucair academy page], Client login [Client clicks on button that shows us the form to login, Client enters '1088267615' into where we write the user, Client enters 'Choucair2021*' into where we write the password, Client clicks on buttom to confirm login]], When he search for the course on the Choucair academy platform
+| strCourse |
+| Prueba Técnica - Analista Bancolombia | [Client search [Client clicks on Cursos y Certificaciones, Client enters 'Prueba Técnica - Analista Bancolombia' into Buscar el curso , Client clicks on Da click para buscar el curso]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@3b8d0b05
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088267615, strPassword=Choucair2021*, strCourse=Prueba Técnica - Analista Bancolombia} [Given than client wants to learn automation at the Choucair academy
+| strUser | strPassword |
+| 1088267615 | Choucair2021* | [Client open up [Client opens the Choucair academy page], Client login [Client clicks on button that shows us the form to login, Client enters '1088267615' into where we write the user, Client enters 'Choucair2021*' into where we write the password, Client clicks on buttom to confirm login]], When he search for the course on the Choucair academy platform
+| strCourse |
+| Prueba Técnica - Analista Bancolombia | [Client search [Client clicks on Cursos y Certificaciones, Client enters 'Prueba Técnica - Analista Bancolombia' into Buscar el curso , Client clicks on Da click para buscar el curso, Client clicks on Da click para buscar el curso]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088267615, strPassword=Choucair2021*, strCourse=Prueba Técnica - Analista Bancolombia} [Given than client wants to learn automation at the Choucair academy
+| strUser | strPassword |
+| 1088267615 | Choucair2021* | [Client open up [Client opens the Choucair academy page], Client login [Client clicks on button that shows us the form to login, Client enters '1088267615' into where we write the user, Client enters 'Choucair2021*' into where we write the password, Client clicks on buttom to confirm login]], When he search for the course on the Choucair academy platform
+| strCourse |
+| Prueba Técnica - Analista Bancolombia | [Client search [Client clicks on Cursos y Certificaciones, Client enters 'Prueba Técnica - Analista Bancolombia' into Buscar el curso , Client clicks on Da click para buscar el curso, Client clicks on Da click para buscar el curso]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088267615, strPassword=Choucair2021*, strCourse=Prueba Técnica - Analista Bancolombia} [Given than client wants to learn automation at the Choucair academy
+| strUser | strPassword |
+| 1088267615 | Choucair2021* | [Client open up [Client opens the Choucair academy page], Client login [Client clicks on button that shows us the form to login, Client enters '1088267615' into where we write the user, Client enters 'Choucair2021*' into where we write the password, Client clicks on buttom to confirm login]], When he search for the course on the Choucair academy platform
+| strCourse |
+| Prueba Técnica - Analista Bancolombia | [Client search [Client clicks on Cursos y Certificaciones, Client enters 'Prueba Técnica - Analista Bancolombia' into Buscar el curso , Client clicks on Da click para buscar el curso, Client clicks on Da click para buscar el curso]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@7bdd97f5
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2c521ff7
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088267615, strPassword=Choucair2021*, strCourse=Prueba Técnica - Analista Bancolombia} [Given than client wants to learn automation at the Choucair academy
+| strUser | strPassword |
+| 1088267615 | Choucair2021* | [Client open up [Client opens the Choucair academy page], Client login [Client clicks on button that shows us the form to login, Client enters '1088267615' into where we write the user, Client enters 'Choucair2021*' into where we write the password, Client clicks on buttom to confirm login]], When he search for the course on the Choucair academy platform
+| strCourse |
+| Prueba Técnica - Analista Bancolombia | [Client search [Client clicks on Cursos y Certificaciones, Client enters 'Prueba Técnica - Analista Bancolombia' into Buscar el curso , Client clicks on Da click para buscar el curso, Client clicks on Da click para buscar el curso]], Then he finds the course called
+| strCourse |
+| Prueba Técnica - Analista Bancolombia | [Then answer]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088267615, strPassword=Choucair2021*, strCourse=Prueba Técnica - Analista Bancolombia} [Given than client wants to learn automation at the Choucair academy
+| strUser | strPassword |
+| 1088267615 | Choucair2021* | [Client open up [Client opens the Choucair academy page], Client login [Client clicks on button that shows us the form to login, Client enters '1088267615' into where we write the user, Client enters 'Choucair2021*' into where we write the password, Client clicks on buttom to confirm login]], When he search for the course on the Choucair academy platform
+| strCourse |
+| Prueba Técnica - Analista Bancolombia | [Client search [Client clicks on Cursos y Certificaciones, Client enters 'Prueba Técnica - Analista Bancolombia' into Buscar el curso , Client clicks on Da click para buscar el curso, Client clicks on Da click para buscar el curso]], Then he finds the course called
+| strCourse |
+| Prueba Técnica - Analista Bancolombia | [Then answer]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088267615, strPassword=Choucair2021*, strCourse=Prueba Técnica - Analista Bancolombia} [Given than client wants to learn automation at the Choucair academy
+| strUser | strPassword |
+| 1088267615 | Choucair2021* | [Client open up [Client opens the Choucair academy page], Client login [Client clicks on button that shows us the form to login, Client enters '1088267615' into where we write the user, Client enters 'Choucair2021*' into where we write the password, Client clicks on buttom to confirm login]], When he search for the course on the Choucair academy platform
+| strCourse |
+| Prueba Técnica - Analista Bancolombia | [Client search [Client clicks on Cursos y Certificaciones, Client enters 'Prueba Técnica - Analista Bancolombia' into Buscar el curso , Client clicks on Da click para buscar el curso, Client clicks on Da click para buscar el curso]], Then he finds the course called
+| strCourse |
+| Prueba Técnica - Analista Bancolombia | [Then answer]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: Search for a automation course:Example: {strUser=1088267615, strPassword=Choucair2021*, strCourse=Prueba Técnica - Analista Bancolombia} [Given than client wants to learn automation at the Choucair academy
+| strUser | strPassword |
+| 1088267615 | Choucair2021* | [Client open up [Client opens the Choucair academy page], Client login [Client clicks on button that shows us the form to login, Client enters '1088267615' into where we write the user, Client enters 'Choucair2021*' into where we write the password, Client clicks on buttom to confirm login]], When he search for the course on the Choucair academy platform
+| strCourse |
+| Prueba Técnica - Analista Bancolombia | [Client search [Client clicks on Cursos y Certificaciones, Client enters 'Prueba Técnica - Analista Bancolombia' into Buscar el curso , Client clicks on Da click para buscar el curso, Client clicks on Da click para buscar el curso]], Then he finds the course called
+| strCourse |
+| Prueba Técnica - Analista Bancolombia | [Then answer]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [Search for a automation course:Example: {strUser=1088267615, strPassword=Choucair2021*, strCourse=Prueba Técnica - Analista Bancolombia} [Given than client wants to learn automation at the Choucair academy
+| strUser | strPassword |
+| 1088267615 | Choucair2021* | [Client open up [Client opens the Choucair academy page], Client login [Client clicks on button that shows us the form to login, Client enters '1088267615' into where we write the user, Client enters 'Choucair2021*' into where we write the password, Client clicks on buttom to confirm login]], When he search for the course on the Choucair academy platform
+| strCourse |
+| Prueba Técnica - Analista Bancolombia | [Client search [Client clicks on Cursos y Certificaciones, Client enters 'Prueba Técnica - Analista Bancolombia' into Buscar el curso , Client clicks on Da click para buscar el curso, Client clicks on Da click para buscar el curso]], Then he finds the course called
+| strCourse |
+| Prueba Técnica - Analista Bancolombia | [Then answer]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [Search for a automation course:Example: {strUser=1088267615, strPassword=Choucair2021*, strCourse=Prueba Técnica - Analista Bancolombia} [Given than client wants to learn automation at the Choucair academy
+| strUser | strPassword |
+| 1088267615 | Choucair2021* | [Client open up [Client opens the Choucair academy page], Client login [Client clicks on button that shows us the form to login, Client enters '1088267615' into where we write the user, Client enters 'Choucair2021*' into where we write the password, Client clicks on buttom to confirm login]], When he search for the course on the Choucair academy platform
+| strCourse |
+| Prueba Técnica - Analista Bancolombia | [Client search [Client clicks on Cursos y Certificaciones, Client enters 'Prueba Técnica - Analista Bancolombia' into Buscar el curso , Client clicks on Da click para buscar el curso, Client clicks on Da click para buscar el curso]], Then he finds the course called
+| strCourse |
+| Prueba Técnica - Analista Bancolombia | [Then answer]]]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Search for a automation course
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
